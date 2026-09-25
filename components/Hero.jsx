@@ -17,7 +17,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/images/school-hero.jpg"
+          src="/images/scl-logo.png"
           alt=""
           className="h-full w-full object-cover"
         />
