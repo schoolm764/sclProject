@@ -90,8 +90,8 @@ export default function Hero() {
                 : "translate-y-8 opacity-0"
             }`}
           >
-            Madhyabindu Sky,ine Academy provides quality education
-            from Early Childhood Development through Grade 12 in a
+            Madhyabindu Skyline Academy provides quality education
+            from Early Childhood Development through Grade 10 in a
             caring, supportive, and inspiring environment.
           </p>
 

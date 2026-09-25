@@ -5,11 +5,11 @@ import { useEffect, useRef, useState } from "react";
 
 const information = [
   {
-    number: "390+",
+    number: "500+",
     title: "Students",
   },
   {
-    number: "ECD–12",
+    number: "ECD–10",
     title: "Education",
   },
   {

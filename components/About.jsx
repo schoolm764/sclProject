@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 
 const points = [
-  "ECD to Grade 12",
+  "ECD to Grade 10",
   "Co-educational education",
   "Student-focused learning",
   "Kawasoti, Nawalpur",
